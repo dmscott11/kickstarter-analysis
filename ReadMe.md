@@ -10,7 +10,7 @@ Louise was interested in looking at what makes a kickstarter campaign successful
 
 
 ### Analysis of Outcomes Based on Launch Date
-Based on the analysis of outcomes based on launch date, it can be seen that a kickstart campaign for a "play" is more likely to be successful if created in May or June. See Figure 1. 
+Based on the analysis of outcomes based on launch date, it can be seen that a kickstart campaign for a "play" is more likely to be successful if created in May or June. See the below figure. 
 Additionally it can be identified that the worst time to start a kickstarter for a "play" would be in the winter months (Dec-Feb) as those months consistently have the lowest success rate. 
 
 ![](Resources/Theater_Outcomes_vs_Launch.png)
